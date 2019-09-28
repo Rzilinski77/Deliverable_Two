@@ -1,0 +1,11 @@
+C:\Users\rzili\source\repos\ThingsToDo\ThingsToDo\bin\Debug\netcoreapp2.1\ThingsToDo.deps.json
+C:\Users\rzili\source\repos\ThingsToDo\ThingsToDo\bin\Debug\netcoreapp2.1\ThingsToDo.runtimeconfig.json
+C:\Users\rzili\source\repos\ThingsToDo\ThingsToDo\bin\Debug\netcoreapp2.1\ThingsToDo.runtimeconfig.dev.json
+C:\Users\rzili\source\repos\ThingsToDo\ThingsToDo\bin\Debug\netcoreapp2.1\ThingsToDo.dll
+C:\Users\rzili\source\repos\ThingsToDo\ThingsToDo\bin\Debug\netcoreapp2.1\ThingsToDo.pdb
+C:\Users\rzili\source\repos\ThingsToDo\ThingsToDo\obj\Debug\netcoreapp2.1\ThingsToDo.csprojAssemblyReference.cache
+C:\Users\rzili\source\repos\ThingsToDo\ThingsToDo\obj\Debug\netcoreapp2.1\ThingsToDo.csproj.CoreCompileInputs.cache
+C:\Users\rzili\source\repos\ThingsToDo\ThingsToDo\obj\Debug\netcoreapp2.1\ThingsToDo.AssemblyInfoInputs.cache
+C:\Users\rzili\source\repos\ThingsToDo\ThingsToDo\obj\Debug\netcoreapp2.1\ThingsToDo.AssemblyInfo.cs
+C:\Users\rzili\source\repos\ThingsToDo\ThingsToDo\obj\Debug\netcoreapp2.1\ThingsToDo.dll
+C:\Users\rzili\source\repos\ThingsToDo\ThingsToDo\obj\Debug\netcoreapp2.1\ThingsToDo.pdb
